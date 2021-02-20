@@ -16,5 +16,5 @@ Languages and Tools:
 
 ![Alan's github stats](https://github-readme-stats.vercel.app/api?username=AlanDara&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDara&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xalil&layout=compact&theme=tokyonight)
 
