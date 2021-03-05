@@ -18,3 +18,6 @@ Languages and Tools:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xliel&layout=compact&theme=tokyonight)
 
+### 🎧 Spotify Playing 
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/6y9zzpwv7gdsex5in1mc8xcwq)
